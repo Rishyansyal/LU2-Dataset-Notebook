@@ -1,0 +1,6 @@
+job_id,job_title,short_description,job_description,required_skills,role_tags,location,salary_range,difficulty,popularity_score
+1,Data Analyst,Analyse business data and create dashboards.,"You will work with Python, SQL, BI tools and create insights.","Python, SQL, data visualization, analytics",data analytics,Amsterdam,€3000-€3800,2,80
+2,Junior Software Engineer,Develop software features and fix bugs.,"You will work with Java, APIs, backend services and testing.","Java, Git, debugging, APIs",software engineering,Rotterdam,€2800-€3500,3,70
+3,Marketing Specialist,Support campaigns and content creation.,"You will analyze market trends, create marketing content and ads.","SEO, social media, content writing",marketing,Utrecht,€2600-€3300,2,60
+4,AI Research Intern,Assist in machine learning experiments.,"You will build ML models, preprocess data, and evaluate experiments.","Machine learning, Python, data preprocessing",artificial intelligence,Amsterdam,€500 allowance,4,90
+5,UX Designer,Design user-friendly digital interfaces.,"You will create wireframes, prototypes, and improve usability.","Figma, UX research, prototyping",ux design,Eindhoven,€3200-€4000,3,75
